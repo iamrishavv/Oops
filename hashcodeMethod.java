@@ -1,5 +1,5 @@
 package BasicJava;
-// int hashcode() method--
+// int hashcode() method-- return hashcode of the object.
 public class hashcodeMethod {
     int id;
     hashcodeMethod(int id){
